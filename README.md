@@ -1,59 +1,58 @@
-# connectome
 
-# neurocomputing
-Computational Neuroscience
+## Page is under construction . . . 
 
-## Textbook : 
-   http://cvr.yorku.ca/webpages/spikes.pdf
+------------------
 
-### References: 
-1. https://github.com/kuz/Computational-Neuroscience-Course
-2. https://github.com/sccn
-3. https://github.com/conorhoughton/COMS30127
-4. https://github.com/ashumeow/Computational-NeuroScience
-5. https://gist.github.com/jm3/f3514ea7b683bec2ac94
-6. https://github.com/whenov/computational-neuroscience
-7. https://github.com/robclewley/compneuro
-8. https://github.com/robclewley/compneuro
-9. https://github.com/CNS-OIST
-10. https://github.com/sccn?language=html
-11. https://github.com/bgalbraith/pycone
-12. https://github.com/SantamariaLab/NeuroManager
-13. https://github.com/NeuroCSUT
-14. https://github.com/ReScience/
-15. http://www.neurosciencenetwork.org/
-16. http://journal.frontiersin.org/article/10.3389/fncom.2015.00030/full
-17. http://neuromorphic.eecs.utk.edu/pages/research-overview/
-18. https://elifesciences.org/content/4/e05979
-19. https://www.visualcinnamon.com/portfolio/heatmaps
-20. http://cs.iupui.edu/~gavriil/vital/research_biology.html
-21. Phase transition: http://www.nature.com/articles/srep12216
-22. Caos in Brain http://nautil.us/issue/15/turbulence/your-brain-is-on-the-brink-of-chaos
-23. http://www.cam.ac.uk/research/news/the-human-brain-is-on-the-edge-of-chaos
-24. http://www.cerebromente.org.br/n14/mente/chaos.html
+### Computational Neuroscience Online-Books:
+* [Spike Decisions and Actions](http://www.cvr.yorku.ca/webpages/spikes.pdf) [Python-Notebooks](https://github.com/Ddfulton/neuroscience-notebooks), [Online-Book](http://www.gbv.de/dms/ilmenau/toc/268832722.PDF)
+* [Dynamical Systems in Neuroscience:The Geometry of Excitability and Bursting- Online Book](http://www.gbv.de/dms/ilmenau/toc/268832722.PDF) 
+* [Principle of Brain Dynamics - read Online](http://cognet.mit.edu/book/principles-of-brain-dynamics)
+* [Fundamental Of Computational Neuroscience -Online Book](http://cbcis.ttu.edu/ep/old_netra_site/papers/restricted/Phill_Book/chapter_01_fundamentals.pdf)
 
 
 
-### Papers
-1. http://www.sciencedirect.com/science/article/pii/S0361923099001616
-2. http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002312
-3. http://jonlieffmd.com/blog/neuronal-networks-brain-waves
-4. file:///Users/dibakarsigdel/Downloads/fnhum-08-00647.pdf
-5. http://www.connectomics.org/viewer/
+-----------------------
 
-### Rich club, connectom:
-1. http://www.jneurosci.org/content/31/44/15775
-2. thesis: http://www.rmki.kfki.hu/~banmi/phd/thesis.pdf
-3. https://www.eiseverywhere.com/file_uploads/58e68991a4b58fc114f8e0a37f7b679a_OlafSporns.pdf
-4. http://blogs.plos.org/neuro/2015/10/15/the-decade-of-the-connectome-an-interview-with-connectomics-founder-olaf-sporns/
-5. 2016: http://www.sciencedirect.com/science/article/pii/S1053811915008563
-6. https://theconnectome.wordpress.com/
-7. https://www.nytimes.com/2016/07/21/science/human-connectome-brain-map.html?_r=0
-8. https://www.humanconnectome.org/
-9. http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000748
-10. http://journal.frontiersin.org/article/10.3389/fnhum.2014.00409/full
-11. http://onlinelibrary.wiley.com/doi/10.1002/bies.201100185/full
-12. http://www.sciencedirect.com/science/article/pii/S1053811913005351
+### Projects
+* [Computational-Neuroscience-UW](https://github.com/ConscioX/Computational-Neuroscience-UW)
+
+---------------------------
+
+### Software
+* https://github.com/Neurocomputing
+
+
+----------------------------
+
+### Text Books
+|   |   |   |   |
+| --- | --- | --- | --- |
+|<img src = "https://images-na.ssl-images-amazon.com/images/I/51FJ5q-6IiL._SX350_BO1,204,203,200_.jpg" width="200" height="250" /> |<img src = "https://images-na.ssl-images-amazon.com/images/I/51-18jerSdL._SX327_BO1,204,203,200_.jpg" width="200" height="250" />| <img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262514200.jpg" width="200" height="250" /> |<img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262017640.jpg" width="200" height="250" /> | 
+ 
+
+
+----------------
+
+### Reference Books
+
+|   |   |   |   |
+  | --- | --- | --- | --- |
+ |<img src = "https://images-na.ssl-images-amazon.com/images/I/51dGnJ63TaL._SX382_BO1,204,203,200_.jpg" width="200" height="250" /> | <img src = "https://images-na.ssl-images-amazon.com/images/I/41xuLZ%2BZi%2BL._SX304_BO1,204,203,200_.jpg" width="200" height="250" />  |<img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262541855.jpg" width="200" height="250" /> | <img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262028615.jpg" width="200" height="250" />| 
+ |<img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262034968_1.jpg" width="200" height="250" /> | <img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262034722.jpg" width="200" height="250" />  |<img src = "https://images.springer.com/sgw/journals/medium/13408.jpg" width="200" height="250" /> |<img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262013277.jpg" width="200" height="250" />|
+ |<img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262550604.jpg" width="200" height="250" /> | <img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262650601.jpg" width="200" height="250" />  |<img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262681087.jpg" width="200" height="250" /> | <img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262193566.jpg" width="200" height="250" />|  
+ |<img src = "http://assets.cambridge.org/97805218/77954/cover/9780521877954.jpg" width="200" height="250" /> | <img src = "https://images.gr-assets.com/books/1358993465l/338544.jpg" width="200" height="250" />  |<img src = "https://images.gr-assets.com/books/1347587591l/2028644.jpg" width="200" height="250" /> | <img src = "https://www.booktopia.com.au/http_coversbooktopiacomau/big/9780198524144/cognition-computation-and-consciousness.jpg" width="200" height="250" />|  
+ |<img src = "https://images.springer.com/sgw/books/medium/9783319710105.jpg" width="200" height="250" /> | <img src = "https://images.springer.com/sgw/books/medium/9781852335939.jpg" width="200" height="250" />  |<img src = "https://images.springer.com/sgw/books/medium/9780387954035.jpg" width="200" height="250" /> | <img src = "https://images-na.ssl-images-amazon.com/images/I/51VWGvMSAYL._SX331_BO1,204,203,200_.jpg" width="200" height="250" />|
+ |<img src = "https://images-na.ssl-images-amazon.com/images/I/41KA%2B9YASIL._SX330_BO1,204,203,200_.jpg" width="200" height="250" /> | <img src = "https://images.springer.com/sgw/books/medium/9781461466741.jpg" width="200" height="250" />  |<img src = "https://images-na.ssl-images-amazon.com/images/I/516Y2VLJLlL._SX330_BO1,204,203,200_.jpg" width="200" height="250" /> | <img src = "https://images.springer.com/sgw/books/medium/9789811018213.jpg" width="200" height="250" />|  
+
+* [Book List MIT-Press](https://mitpress.mit.edu/category/series/computational-neuroscience)
+
+-------------------------------
+
+### Other References
+
+----------------------------------
+
+
 
 
 
